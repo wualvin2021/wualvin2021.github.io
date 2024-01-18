@@ -23,4 +23,4 @@ This was my first project using only HTML and CSS. The goal was to replicate an 
 
 <hr>
 
-WebSite: <a href="https://wu-alvin-apple-clone.netlify.app/"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+WebSite: <a href="https://wu-alvin-apple-clone.netlify.app/"><i class="large github icon "></i>Apple-Clone</a>
