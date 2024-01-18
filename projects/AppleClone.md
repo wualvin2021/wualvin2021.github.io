@@ -18,7 +18,7 @@ A simple Apple website using HTML and CSS. Features clickable links and images.
 <hr>
 
 <pre>
-edit here
+This was my first project using HTML and CSS. The goal was to replicate an old Apple Website. 
 </pre>
 
 <hr>
