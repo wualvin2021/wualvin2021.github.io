@@ -12,6 +12,8 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/thinking-js.png">
 
+<h1>Java? Script?</h1>
+
   Javascript is a programming language. At the end of the day, it's hard, demanding, and rewarding. When I first heard of javascript I thought it would be exactly like Java. Why? because it had Java in its name but nope they are quite different. Made from different people and having vastly different styles. I actually just recently found out that Javascript came BEFORE Java so I don't even know what to believe anymore. I want to say right now I'm not that good, but I'm going to come back to this essay perhaps either at the end of this semester or when I graduate and still say I'm not that good but at least I might be able to say why I'm better. At this time I don't think I'm comfortable to say whether I like or dislike the language. I hope I can enjoy this journey.  
   
   Javascript from what I have seen is used for web development sure you can use it for other things but, I would also say you could probably use any programming language for anything if you have the balls, I don't. Anyways, I've seen websites that used JavaScript and how it interacts with the user so seamlessly. I thought it insanity how someone could develop a website with HTML, CSS, and Javascript. The fact that a whole programming language is only a third of the way there to a decent website was something I never thought I could do, and to be honest with you I'm still having this feeling.
