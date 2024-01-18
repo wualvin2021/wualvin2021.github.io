@@ -22,36 +22,30 @@
             },
             {
                 "network": "linkedin",
-                "username": "mollymaluhia",
+                "username": "Alvin Wu",
                 "url": "https://www.linkedin.com/in/alvin-wu-1696a1292/"
             },
             {
                 "network": "twitter",
-                "username": "mollymal",
-                "url": "http://twitter.com/changeme"
+                "username": "Chipmunk16",
+                "url": "https://twitter.com/AlvinYLWu"
             },
             {
                 "network": "instagram",
-                "username": "molly",
-                "url": "http://instagram.com/changeme"
+                "username": "Chipmonk02",
+                "url": "https://www.instagram.com/chipmonk02/"
             }
         ]
     },
     "interests": [
         {
-            "name": "Interactive media"
+            "name": "Video Game design"
         },
         {
-            "name": "Neuromorphic Computing"
+            "name": "Dynamic Web Design"
         },
         {
-            "name": "Quantum Computing"
-        },
-        {
-            "name": "Robotics"
-        },
-        {
-            "name": "3D Graphics"
+            "name": "Outdoors"
         }
     ],
     "skills": [
@@ -65,10 +59,15 @@
             ]
         },
         {
+            "name": "Second Language",
+            "keywords": [
+                "Chinese"
+            ]
+        },
+        {
             "name": "Toolsets/OS",
             "keywords": [
                 "MacOS",
-                "Ubuntu",
                 "Git/GitHub"
             ]
         }
@@ -105,16 +104,22 @@
     ],
     "awards": [
         {
-            "title": "Honor Roll",
+            "title": "Excellent Academic Achievement Honor Roll",
             "date": "2020-2021",
             "awarder": "University Laboratory School",
             "summary": "Award rewarding students with a GPA of 3.6 or higher"
         },
         {
-            "title": "First place",
-            "date": "2015",
-            "awarder": "University of Hawaii Micromouse Competition",
-            "summary": "My team won first place in 2015.  See my portfolio site for more details."
+            "title": "Second Language Japanese Excellent Achievement",
+            "date": "2020-2021",
+            "awarder": "University Laboratory School",
+            "summary": "Outstanding proficiency in Japanese"
+        },
+        {
+            "title": "Excellent Achievement in English",
+            "date": "2019-2020",
+            "awarder": "University Laboratory School",
+            "summary": "Outstanding proficiency in English"
         }
     ],
     "references": [
