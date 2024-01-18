@@ -10,7 +10,7 @@ labels:
   - learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/thinking.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/thinking-js.png.png">
 
   Javascript is a programming language. At the end of the day, it's hard, demanding, and rewarding. When I first heard of javascript I thought it would be exactly like Java. Why? because it had Java in its name but nope they are quite different. Made from different people and having vastly different styles. I actually just recently found out that Javascript came BEFORE Java so I don't even know what to believe anymore. I want to say right now I'm not that good, but I'm going to come back to this essay perhaps either at the end of this semester or when I graduate and still say I'm not that good but at least I might be able to say why I'm better. At this time I don't think I'm comfortable to say whether I like or dislike the language. I hope I can enjoy this journey.  
   
