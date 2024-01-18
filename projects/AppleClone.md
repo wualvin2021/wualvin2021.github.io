@@ -23,4 +23,4 @@ edit here
 
 <hr>
 
-WebSite: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+WebSite: <a href="https://wu-alvin-apple-clone.netlify.app/"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
