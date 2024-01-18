@@ -11,7 +11,7 @@ labels:
 summary: "An Apple Website clone I developed while in boot camp."
 ---
 
-<img width="200px" class="img-fluid" src="../img/cotton/Apple-Clone.png">
+<img class="img-fluid" width="200px" src="../img/cotton/Apple-Clone.png">
 
 A simple Apple website using HTML and CSS. Features clickable links and images.   
 
