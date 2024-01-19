@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Simple Shopping Cart"
 date: 2015
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - HTML
+  - CSS
+  - Javascript
+summary: "I had developed a website that functions like a shopping cart"
 ---
 
 <div class="text-center p-4">
