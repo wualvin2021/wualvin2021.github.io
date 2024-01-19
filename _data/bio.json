@@ -94,7 +94,7 @@
     "volunteer": [
         {
             "organization": "Moilili Community Center",
-            "website": "https://www.moiliilicc.org/",
+            "website": "https://www.moiliilicc.org",
             "position": "Child Caretaker",
             "startDate": "2018",
             "endDate": "2018",
@@ -102,6 +102,18 @@
             "highlights": [
                 "Develop leadership skills and become a team leader.",
                 "Caretaking for children."
+            ]
+        },
+        {
+            "organization": "University Laboratory School",
+            "website": "https://www.universitylaboratoryschool.org/",
+            "position": "Pa'ina server",
+            "startDate": "2019",
+            "endDate": "2019",
+            "summary": "Helping at a vendor during a extracurricular event",
+            "highlights": [
+                "Interacting with customers, especially during rush hour",
+                "Working as a team to ensure a smooth service"
             ]
         }
     ],
