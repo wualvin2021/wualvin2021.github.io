@@ -12,7 +12,7 @@ labels:
 summary: "I developed a website that functions like a shopping cart"
 ---
 
-  <img width="500px" src="../img/ShoppingcartFLDR/ShoppingCartIMG.png">
+  <img width="1000px" src="../img/ShoppingcartFLDR/ShoppingCartIMG.png">
 
 <p>This shopping cart project is actually the most useful website I created. It can actually be used to calculate the total cost of your groceries or simply as a shopping list. You are able to add items you want and price them accordingly. You could set this up before you go shopping as you go shopping you edit the site to either delete the item or use it as a calculator. I may use this in the near future.</p>
 
