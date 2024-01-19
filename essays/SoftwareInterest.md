@@ -10,7 +10,7 @@ labels:
   - learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/thinking-js.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/software-engineering.png">
 
 <h1>Is This Interesting?</h1>
 
