@@ -18,6 +18,6 @@ summary: "A Newsweek clone website"
 
 <p2> While I had done pretty much everything the Navbar was given to me and I had some help with the responsive CSS. This was my second project using HTML and CSS however, I almost want to say that this was mostly a CSS project than HTML. Compared to my previous project: "Apple Clone" this project was definitely more interactive and was easily the hardest part to get correct.</p2>
 
-<p3> During this development and after I had completed I had learned quite a bit about CSS and Bootstrap. Both are very critical in how a website would look. Someone once told me that HTML is the cake batter of a website, Bootstrap is the icing on the cake, and CSS is the sprinkles and toppings of the cake. I still believe this to this day.</p3>
+<p3> During this development and after I had completed I learned quite a bit about CSS and Bootstrap. Both are very crucial in how a website would look. Someone once told me that HTML is the cake batter of a website, Bootstrap is the icing on the cake, and CSS is the sprinkles and toppings of the cake. I still believe this to this day.</p3>
  
 Source: <a href="https://github.com/wualvin2021/Source-Codes/tree/main/newsweek">Newsweek</a>
