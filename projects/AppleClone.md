@@ -17,9 +17,9 @@ A simple Apple website using HTML and CSS. Features clickable links and images.
 
 <hr>
 
-<pre>
+
 This was my first project using only HTML and CSS. The goal was to replicate an old Apple Website. I created this project when I was first learning about HTML and CSS. I used images you would see on an actual Apple Website. The website itself is formatted very similarly to an actual Apple website. The layout itself contains a navbar, this is the black bar on top that simulates a navigation bar.    
-</pre>
+
 
 <hr>
 Source:<a href="https://github.com/wualvin2021/Source-Codes/tree/main/apple_clone"><i class="Source Code"></i>Apple-Clone Source Code</a>
