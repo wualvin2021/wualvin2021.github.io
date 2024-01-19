@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/Apple-Clone.png
+image: img/cotton/Apple-clone.png
 title: "Apple Clone"
 date: 2023
 published: true
