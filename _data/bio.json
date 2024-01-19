@@ -85,7 +85,7 @@
             "institution": "University of Hawaii, Honolulu, HI",
             "area": "Computer Science (expected Spring, 2025)",
             "studyType": "B.S.",
-            "startDate": "August 2021",
+            "startDate": "2021",
             "endDate": "Present",
             "courses": "ICS 111, ICS 211, ICS 314"
         }
@@ -95,11 +95,12 @@
             "organization": "Moilili Community Center",
             "website": "https://www.moiliilicc.org/",
             "position": "Child Caretaker",
-            "date": "Summer 2018",
+            "startDate": "2018",
+            "endDate": "2018",
             "summary": "Caring for children while gaining leadership skills",
             "highlights": [
-                "Develop leadership skills and become a team leader",
-                "Maintain custom data collection and storage infrastructure"
+                "Develop leadership skills and become a team leader.",
+                "Caretaking for children."
             ]
         }
     ],
