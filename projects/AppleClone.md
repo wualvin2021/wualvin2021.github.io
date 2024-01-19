@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/Apple-clone.png
+image: img/AppleClone/Apple-clone-head.png
 title: "Apple Clone"
 date: 2023
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "An Apple Website clone I developed while in boot camp."
 ---
 
-<img class="img-fluid" src="../img/cotton/Apple-clone.png">
+<img class="img-fluid" src="../img/AppleClone/Apple-clone.png">
 
 A simple Apple website using HTML and CSS. Features clickable links and images.   
 
