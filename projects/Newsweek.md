@@ -8,11 +8,12 @@ published: true
 labels:
   - HTML
   - CSS
+  - Bootstrap 
 summary: "A Newsweek clone website"
 ---
 
 <img class="img-fluid" src="../img/newsweekIMG/newsweek-page.png">
 
-edit here.
+Newsweek clone is just that, a clone of the popular news media "Newsweek." The point of the project was to get familiarized with responsive CSS, so if you're viewing this on mobile or on a smaller window you would see that as the screen gets smaller the website would readjust itself. This project also incorporates Bootstrap for added styles.
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Source: <a href="https://github.com/theVacay/vacay">News Week/vacay</a>
