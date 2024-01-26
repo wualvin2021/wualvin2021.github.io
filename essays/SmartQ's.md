@@ -23,6 +23,5 @@ labels:
  <a href="https://stackoverflow.com/questions/16626673/playing-a-video-when-clicking-on-an-element-of-an-image">Smart Question</a>
  <a href="https://stackoverflow.com/questions/77883991/error-when-submit-recaptcha-on-orbeon-form">nonSmart Question</a>
  
-// change the publish to true when finished.
 
 
