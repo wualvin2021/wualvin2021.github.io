@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class="rounded float-start pe-4" src="../img/stackoverflow.png">
+<img width = "400px" class="rounded float-start pe-4" src="../img/stackoverflow.png">
 
 <h1> The Art In Smart Questions</h1>
 
