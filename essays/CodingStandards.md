@@ -12,7 +12,7 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/thinking-js.png">
 
-<h1>Quality Assurance for Coding Insurance/h1>
+<h1>Quality Assurance for Coding Insurance</h1>
 
   <p></p>
   
