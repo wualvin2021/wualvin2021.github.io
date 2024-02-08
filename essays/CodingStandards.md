@@ -1,3 +1,4 @@
+
 ---
 layout: essay
 type: essay
@@ -22,4 +23,4 @@ labels:
   <p>Learning Javascript is no different when it comes to having Coding Standards. In this case, I got to experience IntelliJ and ESLint. IntelliJ is IDE and ESLint is like a form of checkstyle system I mentioned before but this time unlike when I learned Java they're errors instead of warnings. I also want to mention when I program on IntelliJ it'll tell me what I just wrote. </p>
 ```
 const testNums <i>:number[]</i> =  [1, 2, 3, 4];  
-
+```
