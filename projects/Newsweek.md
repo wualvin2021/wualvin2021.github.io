@@ -14,7 +14,7 @@ summary: "A Newsweek clone website"
 
 <img class="img-fluid" src="../img/newsweekIMG/newsweek-page.png">
 
-<p> Newsweek clone is just that, a clone of the popular news media "Newsweek." The point of the project was to get familiarized with responsive CSS, so if you're viewing this on mobile or on a smaller window you would see that as the screen gets smaller the website would readjust itself. This project also incorporates Bootstrap for added styles. </p>
+<p> Newsweek clone is just that, a clone of the popular news media "Newsweek." The point of the project was to get familiarized with responsive CSS, so if you're viewing this site on mobile or on a smaller window you would see that as your screen gets smaller the website would readjust itself. This project also incorporates Bootstrap for added styles. </p>
 
 <p2> While I had done pretty much everything the Navbar was given to me and I had some help with the responsive CSS. This was my second project using HTML and CSS however, I almost want to say that this was mostly a CSS project than HTML. Compared to my previous project: "Apple Clone" this project was definitely more interactive and was easily the hardest part to get correct.</p2>
 
