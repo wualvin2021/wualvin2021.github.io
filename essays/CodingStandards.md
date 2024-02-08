@@ -10,7 +10,7 @@ labels:
   - learning
 ---
 
-<img width ="300px" class="rounded float-start pe-4" src="../img/bartCode.png">
+<img width ="500px" class="rounded float-start pe-4" src="../img/bartCode.png">
 
 <h1>Quality Assurance for Coding Insurance</h1>
 
