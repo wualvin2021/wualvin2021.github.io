@@ -20,6 +20,6 @@ labels:
   <h2>Exploring new Oppertunities</h2>
   <p> I've only used Bootstrap for its navbars but I'm willing to bet that there are many more uses for Bootstrap. I wonder if they have anything for the middle body of the site and especially the footer, I personally have the hardest time properly designing the footer of a site since I have to worry about it clipping past the page, correct rows and columns and more shenanigans that without bootstrap or other frameworks are a real pain.</p>
   
-   <h3>No Pain no Gain</h3>
+   <h2>No Pain no Gain</h2>
   <p>I know it seems that I've only just been complaining and to be fair I am, but I guess I could take this time to point out what I do gain after everything succeeds. The first is the beautiful website. I can't explain how good it feels when you design a site and it looks like a professionally built site, sure it may not have the interactivity but the fact it looks like something you'd see on Google is pretty freaking amazing. This just goes to show that the time and effort you put in matters even if it doesn't seem worth it at the beginning</p>
 
