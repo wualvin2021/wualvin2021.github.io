@@ -13,8 +13,8 @@ labels:
 ---
 
 
-<h1>Style for my File</h1> <img width ="200px" class="rounded float-start pe-4" src="../img/Bootstrap_logo.png">
-
+<h1>Style for my File</h1> 
+<img width ="200px" class="rounded float-start pe-4" src="../img/Bootstrap_logo.png">
   <p>I've spent this week getting accustomed to frameworks for web design. I'll say upfront it's very difficult. It's also very tedious as when you have to match your opening tags with the closing tags your code will pile onto 100 lines very quickly. What's even more crazy is that most of the lines of code will only have one word on it. I get that frameworks like Bootstrap are supposed to help you but there will be times when I implement a navbar only for it to be off-center or the wrong size and I end up spending too much time fixing something that should have already been "correct" from the start.</p>
 
   <h2>Exploring new Oppertunities</h2>
