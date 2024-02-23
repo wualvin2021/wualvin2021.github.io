@@ -12,7 +12,7 @@ labels:
   - Bootstrap
 ---
 
-<img width ="1250px" class="rounded float-start pe-4" src="../img/bartCode.png">
+<img width ="200px" class="rounded float-start pe-4" src="../img/Bootstrap_logo.png">
 
 <h1>Style for my File</h1>
 
