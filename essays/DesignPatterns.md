@@ -1,15 +1,14 @@
 ---
 layout: essay
 type: essay
-title: "UI for You and I"
+title: "Signing off on Designs"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-24
 published: true
 labels:
-  - Learning
-  - HTML
-  - CSS
-  - Bootstrap
+  - React
+  - Meteor
+  - Design Patterns
 ---
 
 
