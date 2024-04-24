@@ -13,7 +13,7 @@ labels:
 
 
 <h1>Style for my File</h1> 
-<img width ="200px" class="rounded float-start pe-4" src="../img/Bootstrap_logo.png">
+<img width ="200px" class="rounded float-start pe-4" src="../img/design-patterns.png">
   <p></p>
 
   <h2>Exploring new Oppertunities</h2>
