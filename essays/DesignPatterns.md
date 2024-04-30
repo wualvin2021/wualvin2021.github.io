@@ -4,7 +4,7 @@ type: essay
 title: "Signing off on Designs"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-24
-published: true
+published: false
 labels:
   - React
   - Meteor
