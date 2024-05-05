@@ -3,25 +3,63 @@ layout: essay
 type: essay
 title: "Style and Substance"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-7
+date: 2024-05-5
 published: true
 labels:
-  - Standards
+  - AI
   - learning
 ---
 
-<img width ="1250px" class="rounded float-start pe-4" src="../img/bartCode.png">
+<img width ="300px" class="rounded float-start pe-4" src="../img/bartCode.png">
 
-<h1>Quality Assurance for Coding Insurance</h1>
+### I. Introduction
+AI is very interesting, to say the least. It sometimes feels like you are talking to a real person if you are using a Chatbot feature  
 
-  <p>Being a programmer, having some style with the substance is important. Especially if you work in a team, having your teammates be able to quickly read your code and understand it is key to success. Having a set coding standards is not only important but also I feel most people already instinctively do. In my honest opinion, people already have some coding standards. I believe this because every set of standards, whether functional programming or how many spaces you indent, helps you learn a language.</p>
+### II. Personal Experience with AI:
+I have used AI in class this semester in the following areas:
 
-  <h2>History doesn't Repeat Itself, It Rhymes</h2>
-  <p>When I was a freshman learning Java all those years ago, I didn't have a set of coding standards with the exception of the check style system that even I widely ignored. At that time I was more concerned about getting the correct answer and then styling later or in many cases, never. Anyway, once I finished my assignments, when I would look back at the code I wrote I would not understand what I wrote sometimes. This was terrible when it came to studying for tests or studying in general. Looking back at it now, I do believe I wasted a lot of time relearning stuff that would have never happened if I styled properly. Now we come full circle.</p>
+  1. Experience WODs e.g. E18: I've never had to use AI because I felt that there were already enough resources given to me to succeed. 
 
-   <h3>Artificial Intelligence for IntelliJ</h3>
-  <p>Learning Javascript is no different when it comes to having Coding Standards. In this case, I got to experience IntelliJ and ESLint. IntelliJ is IDE and ESLint is like a form of checkstyle system I mentioned before but this time unlike when I learned Java they're errors instead of warnings. I also want to mention when I program on IntelliJ it'll tell me what I just wrote. In the example below, the ": number[]" was not written by me. it's either IntelliJ or ESLint and I'm willing to bet it's probably one of the inspections from IntelliJ with Javascript. It was annoying at first but then you realize with proper coding style you can even make your IDE understand what you're doing. If that's the case, then you definitely did something correctly.</p>
+  3. In-class Practice WODs: I've only used AI once or twice and that was when I didn't have a partner or was doing self practice. Most In-class WODs were with a partner so I.
 
-```javascript
-const testNums : number[] =  [1, 2, 3, 4];  
-```
+  4. In-class WODs: I have used AI for almost all of these as the time limit for me was quite stressful. For the first Morning Brew WOD that we needed to make completely from scratch with HTML and CSS, I used ChatGPT and Co-pilot to make sure that I wouldn't have to stare at code when it was broken. 
+
+  5. Essays: I did not use AI for this because I felt that Essays had to feel "human".
+
+  6. Final project: a few times, Mainly for concepts like Javascript underscore or other backend components. It didn't really help with ESlint errors  
+
+  7. Learning a concept/tutorial: A few amount of times, prior to ICS 314 I had very little experience with javascript so I has AI explain what a line meant.  
+
+  8. Answering a question in class or in Discord: I did not use AI for this. 
+
+  9. Asking or answering a smart-question: I did not use AI for this. 
+
+  10. Coding example e.g. “give an example of using Underscore .pluck”: I would not use AI to give me an example rather instead give me to answer to a problem. 
+
+  11. Explaining code: I've had AI used a few times and this kind of goes hand in hand with point #7 when I was learning something completely new I would ask AI to explain what each line means.
+
+  12. Writing code: I have used plugins like Github Co-pilot to give me suggestions, like how my professors have said it's about 70% correct.  
+
+  13. Documenting code: I did not use AI for this as I was unaware it had this kind of feature. 
+
+  14. Quality assurance: I use this the most and this is probably where I had the most amount of success with AI. Most times it would be after I "finished" and then run it through to check. It was just fixing/cleaning up any bugs that may take someone a good amount of minutes even with a good eye.
+
+  15. Other uses in ICS 314 not listed above: Every use of AI I have listed above.
+
+
+### III. Impact on Learning and Understanding:
+
+
+### IV. Practical Applications:
+
+
+### V. Challenges and Opportunities:
+
+
+### VI. Comparative Analysis:
+
+
+### VII. Future Considerations:
+
+
+### VIII. Conclusion:
