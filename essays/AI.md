@@ -10,7 +10,7 @@ labels:
   - learning
 ---
 
-<img width ="300px" class="rounded float-start pe-4" src="../img/bartCode.png">
+<img width ="300px" class="rounded float-start pe-4" src="../img/AI.png">
 
 ### I. Introduction
 AI is very interesting, to say the least. It sometimes feels like you are talking to a real person if you are using a Chatbot feature  
