@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Style and Substance"
+title: "Getting an A+ with AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-5
 published: true
@@ -13,7 +13,7 @@ labels:
 <img width ="300px" class="rounded float-start pe-4" src="../img/AI.png">
 
 ### I. Introduction
-AI is very interesting, to say the least. It sometimes feels like you are talking to a real person if you are using a Chatbot feature  
+AI is very interesting, to say the least. It even feels like you are talking to a real person if you are using a Chatbot feature. Without a doubt, AI will be the future in this world. Despite the   
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
@@ -54,7 +54,7 @@ I have used AI in class this semester in the following areas:
 
 
 ### V. Challenges and Opportunities:
-
+As I said in my intro, I do believe that AI will be our future whether we like it or not. Personally, I am a little more on the worried side than the confident side only because it has a possibility to take my job.  
 
 ### VI. Comparative Analysis:
 
