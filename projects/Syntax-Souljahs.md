@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/AppleClone/Apple-clone.png
+image: img/AppleClone/Rec-center-warriors-icon.png
 title: "Apple Clone"
 date: 2023
 published: true
 labels:
   - Meteor
   - CSS
-summary: "An Apple Website clone I developed while in boot camp."
+summary: "A group project website that allows people to connect at the campus gym."
 ---
 
 <img class="img-fluid" src="../img/AppleClone/Apple-Clone-head.png">
