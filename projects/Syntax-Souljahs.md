@@ -13,16 +13,16 @@ summary: "A group project website that allows people to connect at the campus gy
 
 <img class="img-fluid" src="../img/AppleClone/Apple-Clone-head.png">
 
-A simple Apple website using HTML and CSS. Features clickable links and images.   
+A web application that allows users to sign up and buddy up with someone to go to the gym.    
 
 <hr>
 
 
-<p> This was the beginning of a long journey towards web development. This being my first project using HTML and CSS I had lots to learn. I realized that HTML isn't really programming, it's marking. That's where the M is HTML comes from. CSS on the other hand felt more like programming but at the same time not really as well. It's pretty hard to explain. One builds the website while the other stylizes.</p>
+<p>This was a group project consisting of 6 software engineering students. </p>
 
-<p>The goal was to replicate an old Apple Website. I created this project when I was first learning about HTML and CSS. I used images you would see on an actual Apple Website. The website itself is formatted very similarly to an actual Apple website. The layout itself contains a navbar, the black bar on top that simulates a navigation bar the images themselves are clickable links. The hero and sub-hero sections showcase the different Apple products. Finally, the footer section mimics the different navigation links at the bottom of the page. </p>
+<p>As someone who doesn't go to the gym because of "gymtimidation" I only like to go to the gym if I have a friend. This was the reason this website was built because just like me, many others have the same fear but we still want to work out for various reasons.</p>
 
-<p> I definitely learned a lot, mainly how websites are built. Before this journey, I had only heard about HTML and not even knew about CSS. This project and many assignments before this have truly opened the door to something interesting. Before I even began developing this website I kept telling myself how I would even be able to do this in the first place. I had a reference to look at and it was like 100's of lines of code for both HTML and CSS. In the end, I managed to pull it off and learned so much.</p>
+<p></p>
 
 <hr>
 Source:<a href="https://github.com/Syntax-Souljahs/RecCenterWarriors"><i class="Source Code"></i>Apple-Clone Source Code</a>
