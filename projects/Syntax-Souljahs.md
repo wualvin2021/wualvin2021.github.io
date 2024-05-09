@@ -6,7 +6,7 @@ title: "Apple Clone"
 date: 2023
 published: true
 labels:
-  - HTML
+  - Meteor
   - CSS
 summary: "An Apple Website clone I developed while in boot camp."
 ---
@@ -25,5 +25,5 @@ A simple Apple website using HTML and CSS. Features clickable links and images.
 <p> I definitely learned a lot, mainly how websites are built. Before this journey, I had only heard about HTML and not even knew about CSS. This project and many assignments before this have truly opened the door to something interesting. Before I even began developing this website I kept telling myself how I would even be able to do this in the first place. I had a reference to look at and it was like 100's of lines of code for both HTML and CSS. In the end, I managed to pull it off and learned so much.</p>
 
 <hr>
-Source:<a href="https://github.com/wualvin2021/Source-Codes/tree/main/apple_clone"><i class="Source Code"></i>Apple-Clone Source Code</a>
-Website: <a href="https://wu-alvin-apple-clone.netlify.app"><i class="large github icon "></i>Apple-Clone</a>
+Source:<a href="https://github.com/Syntax-Souljahs/RecCenterWarriors"><i class="Source Code"></i>Apple-Clone Source Code</a>
+Website: <a href="https://rcwarriors.fit"><i class="large github icon "></i>Apple-Clone</a>
