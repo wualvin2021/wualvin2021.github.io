@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/AppleClone/Rec-center-warriors-icon.png
-title: "Apple Clone"
-date: 2023
+image: img/Rec-center-warriors-icon.png
+title: "Rec Center Warriors"
+date: 2024
 published: true
 labels:
   - Meteor
