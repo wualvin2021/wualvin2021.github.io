@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Bugs to Breakthrough: Lessons learned"
+title: "Bugs to Breakthrough: Lessons Learned"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-9
 published: true
