@@ -11,7 +11,7 @@ labels:
 summary: "A group project website that allows people to connect at the campus gym."
 ---
 
-<img class="img-fluid" src="../img/AppleClone/Apple-Clone-head.png">
+<img class="img-fluid" src="../img/rec-center-warriors-landing.png">
 
 A web application that allows users to sign up and buddy up with someone to go to the gym.    
 
