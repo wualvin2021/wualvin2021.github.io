@@ -25,5 +25,5 @@ A web application that allows users to sign up and buddy up with someone to go t
 <p>With this being the final project, it was the culmination of what I had learned in my software engineering class. Like I said, I had a lot of fun making this project come true and a big part of that was my amazing teammates. I got to work with very talented people and was able to get some confidence working with people</p>
 
 <hr>
-Source:<a href="https://github.com/Syntax-Souljahs/RecCenterWarriors"><i class="Source Code"></i>Apple-Clone Source Code</a>
-Website: <a href="https://rcwarriors.fit"><i class="large github icon "></i>Apple-Clone</a>
+Source:<a href="https://github.com/Syntax-Souljahs/RecCenterWarriors"><i class="Source Code"></i>Rec Center Warriors Source Code</a>
+Website: <a href="https://rcwarriors.fit"><i class="large github icon "></i>rcwarriors.fit</a>
