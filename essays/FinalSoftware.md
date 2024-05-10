@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Bugs to Breakthrough: Lessons learned"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-24
+date: 2024-05-9
 published: true
 labels:
   - Software Engineering
