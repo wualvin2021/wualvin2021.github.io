@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on Smart Questions"
+title: "Interrogating Information: Smart Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-24
 published: true
