@@ -18,7 +18,7 @@ A web application that allows users to sign up and buddy up with someone to go t
 <hr>
 
 
-<p>This was a group project consisting of 6 software engineering students. We wanted to create something that was both practical and useful while having fun in the process. I worked more on the front-end side like the login page, guide page, and footer.</p>
+<p>This was a group project consisting of 6 software engineering students. We wanted to create something that was both practical and useful while having fun in the process. I worked on the front-end side like the login page, guide page, and footer, since I felt that I'm at my best with HTML is CSS.</p>
 
 <p>As someone who doesn't go to the gym because of "gymtimidation" I only like to go to the gym if I have a friend. This was the reason this website was built because just like me, many others have the same fear but we still want to work out for various reasons. We've even taken feedback </p>
 
