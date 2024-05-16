@@ -81,6 +81,21 @@
             "courses": "ICS 111, ICS 211, ICS 314"
         }
     ],
+    "work": [
+    {
+      "company": "Safeway, Inc.",
+      "position": "Multi Purpose Clerk",
+      "website": "https://www.safeway.com",
+      "startDate": "2024-05",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        " ",
+        " ",
+        " "
+      ]
+    }
+  ],
     "volunteer": [
         {
             "organization": "Moilili Community Center",
