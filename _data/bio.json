@@ -113,7 +113,8 @@
             "organization": "University Laboratory School",
             "website": "https://www.universitylaboratoryschool.org",
             "position": "Pa'ina server",
-            "Startdate": "2019",
+            "startDate": "2019",
+            "endDate": " 2019",
             "summary": "Helped as a vendor during an extracurricular event",
             "highlights": [
                 "Serving customers",
