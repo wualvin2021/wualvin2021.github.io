@@ -74,12 +74,12 @@
         },
         
         {
-    "institution": "University of Hawaii, Honolulu, HI",
-    "area": "Computer Science",
-    "studyType": "B.S.",
-    "startDate": "2021",
-    "endDate": "2026",
-    "courses": "ICS 111, ICS 141, ICS 211, ICS 212, ICS 241, ICS 311, ICS 312, ICS 314, ICS 332, ICS 469, ICS 485, ICS 496"
+            "institution": "University of Hawaii, Honolulu, HI",
+            "area": "Computer Science",
+            "studyType": "B.S.",
+            "startDate": "2021",
+            "endDate": "2026",
+            "courses": "ICS 111, ICS 141, ICS 211, ICS 212, ICS 241, ICS 311, ICS 312, ICS 314, ICS 332, ICS 469, ICS 485, ICS 496"
         }
     ],  
     "work": [
